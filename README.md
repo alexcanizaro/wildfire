@@ -1,18 +1,27 @@
 # wildfire
 #### --VIIRS--
+
 1. NASA EarthData
-..* -Austomatic Downloads-
+
+..* -Automatic Downloads-
+
 2. Purpose: Active fires
+
 3. Parameters:
+
 ..* 375 meter swath
+
 ..* 1-3 hour stretch
+
 ..* Global view
+
 ..* 0.41GB to 0.61GB per day
+
 [VIIRS Data Access] (https://www.earthdata.nasa.gov/learn/find-data/near-real-time/viirs)
 
 #### --MODIS--
 1. NASA EarthData
-..* -Austomatic Downloads-
+..* -Automatic Downloads-
 2. Purpose: Surface temperature, thermal anomalies
 3. Parameters:
 ..* 1000 meter swath
