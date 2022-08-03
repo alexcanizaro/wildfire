@@ -1,8 +1,8 @@
 # wildfire
-#### --VIIRS--
+#### **VIIRS**
 
 1.NASA EarthData
-..* -Automatic Downloads-
+..* *Automatic Downloads*
 2.Purpose: Active fires
 3.Parameters:
 ..* 375 meter swath
@@ -11,9 +11,9 @@
 ..* 0.41GB to 0.61GB per day
 [VIIRS Data Access](https://www.earthdata.nasa.gov/learn/find-data/near-real-time/viirs)
 
-#### --MODIS--
+#### **MODIS**
 1. NASA EarthData
-..* -Automatic Downloads-
+..* *Automatic Downloads*
 2. Purpose: Surface temperature, thermal anomalies
 3. Parameters:
 ..* 1000 meter swath
@@ -23,9 +23,9 @@
 [MODIS Data Access](https://www.earthdata.nasa.gov/learn/find-data/near-real-time/modis)
 [MODIS Data Source Code](https://github.com/nasa-gibs/worldview)
 
-#### --ICESat2--
+#### **ICESat2**
 1. NASA EarthData
-2. Purpose: Land and vegetation height, -fuel canopy height-
+2. Purpose: Land and vegetation height, *fuel canopy height*
 3. Parameters:
 ..* Resolution Varies
 ..* 3-90 day stretch
@@ -33,7 +33,7 @@
 ..* 34.5GB per day
 [ICESat2 Data Access](https://www.earthdata.nasa.gov/learn/find-data/near-real-time/icesat2-nrt)
 
-#### --ISS LIS--
+#### **ISS LIS**
 1. NASA EarthData
 2. Purpose: Lightning strikes
 3. Parameters:
@@ -43,7 +43,7 @@
 ..* 0.06GB to 0.29GB per day
 [ISS LIS Data Access](https://www.earthdata.nasa.gov/learn/find-data/near-real-time/lis)
 
-#### --MLS--
+#### **MLS**
 1. NASA EarthData
 2. Purpose: Atmospheric composition
 3. Parameters:
@@ -53,7 +53,7 @@
 ..* 0.03 per day
 [MLS Data Access](https://www.earthdata.nasa.gov/learn/find-data/near-real-time/mls)
 
-#### --MOPITT--
+#### **MOPITT**
 1. NASA EarthData
 2. Purpose: Atmospheric composition, CO focus
 3. Parameters:
