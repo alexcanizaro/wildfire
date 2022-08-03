@@ -2,7 +2,7 @@
 #### **VIIRS**
 
 1.NASA EarthData
-..* *Automatic Downloads*
+: *Automatic Downloads*
 2.Purpose: Active fires
 3.Parameters:
 ..* 375 meter swath
@@ -13,7 +13,7 @@
 
 #### **MODIS**
 1. NASA EarthData
-..* *Automatic Downloads*
+: *Automatic Downloads*
 2. Purpose: Surface temperature, thermal anomalies
 3. Parameters:
 ..* 1000 meter swath
