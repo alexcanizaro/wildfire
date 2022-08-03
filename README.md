@@ -3,7 +3,9 @@
 
 1.NASA EarthData
 : *Automatic Downloads*
+
 2. Purpose: Active fires
+
 3. Parameters:
 - 375 meter swath
 - 1-3 hour stretch
