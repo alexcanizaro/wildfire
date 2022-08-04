@@ -4,7 +4,7 @@
 1. NASA EarthData
 : *Automatic Downloads*
 2. Purpose: Active fires
-3. Parameters:
+3. Data Characteristics:
 - 375 meter swath
 - 1-3 hour stretch
 - Global view
@@ -15,7 +15,7 @@
 1. NASA EarthData
 : *Automatic Downloads*
 2. Purpose: Surface temperature, thermal anomalies
-3. Parameters:
+3. Data Characteristics:
 - 1000 meter swath
 - 5 minute stretch
 - Global view
@@ -26,7 +26,7 @@
 #### **ICESat2**
 1. NASA EarthData
 2. Purpose: Land and vegetation height, *fuel canopy height*
-3. Parameters:
+3. Data Characteristics:
 - Resolution Varies
 - 3-90 day stretch
 - Global view
@@ -36,7 +36,7 @@
 #### **ISS LIS**
 1. NASA EarthData
 2. Purpose: Lightning strikes
-3. Parameters:
+3. Data Characteristics:
 - Resolution Varies
 - 1 - 60 minute stretch
 - 50 degrees latitude N & S
@@ -46,7 +46,7 @@
 #### **MLS**
 1. NASA EarthData
 2. Purpose: Atmospheric composition
-3. Parameters:
+3. Data Characteristics:
 - 3000 meter swath
 - 15 minute stretch
 - 82 degrees latitude N & S
@@ -56,7 +56,7 @@
 #### **MOPITT**
 1. NASA EarthData
 2. Purpose: Atmospheric composition, CO focus
-3. Parameters:
+3. Data Characteristics:
 - Resolution unknown
 - Real time
 - 65 degrees latitude N & S
